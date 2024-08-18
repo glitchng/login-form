@@ -15,6 +15,6 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`](https://login-form-navy-gamma.vercel.app/).***
+***Here's an Example [`OUTPUT`](https://login-form-glitchngs-projects.vercel.app/).***
 
 ---
